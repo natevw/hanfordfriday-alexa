@@ -1,0 +1,16 @@
+{
+  "name": "hanfordfriday-alexa-lambda",
+  "version": "1.0.0",
+  "description": "Lambda function for Hanford Friday Alexa Skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Vander Wilt",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "alexa-sdk": "^1.0.11",
+    "hanfordfriday": "^1.0.0"
+  }
+}
