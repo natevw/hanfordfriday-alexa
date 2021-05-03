@@ -4,7 +4,7 @@
 
 process.env.TZ = 'America/Los_Angeles';
 
-const Alexa = require('alexa-sdk');
+const Alexa = require('ask-sdk-v1adapter');
 const hf = require('hanfordfriday');
 
 const VOICE_ANSWERS = {

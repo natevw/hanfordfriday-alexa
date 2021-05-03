@@ -10,7 +10,7 @@
   "license": "ISC",
   "private": true,
   "dependencies": {
-    "alexa-sdk": "^1.0.11",
+    "ask-sdk-v1adapter": "^2.10.2",
     "hanfordfriday": "^1.0.0"
   }
 }
